@@ -1,0 +1,673 @@
+[{
+	"file_name": "C101_25.json",
+	"instance_name": "C101_25",
+	"tags": ["C101_25", "N25", "TC1", "C01", "NOTWS"]
+}, {
+	"file_name": "C102_25.json",
+	"instance_name": "C102_25",
+	"tags": ["C102_25", "N25", "TC1", "C02"]
+}, {
+	"file_name": "C103_25.json",
+	"instance_name": "C103_25",
+	"tags": ["C103_25", "N25", "TC1", "C03"]
+}, {
+	"file_name": "C104_25.json",
+	"instance_name": "C104_25",
+	"tags": ["C104_25", "N25", "TC1", "C04", "REDUCED"]
+}, {
+	"file_name": "C105_25.json",
+	"instance_name": "C105_25",
+	"tags": ["C105_25", "N25", "TC1", "C05"]
+}, {
+	"file_name": "C106_25.json",
+	"instance_name": "C106_25",
+	"tags": ["C106_25", "N25", "TC1", "C06"]
+}, {
+	"file_name": "C107_25.json",
+	"instance_name": "C107_25",
+	"tags": ["C107_25", "N25", "TC1", "C07"]
+}, {
+	"file_name": "C108_25.json",
+	"instance_name": "C108_25",
+	"tags": ["C108_25", "N25", "TC1", "C08"]
+}, {
+	"file_name": "C109_25.json",
+	"instance_name": "C109_25",
+	"tags": ["C109_25", "N25", "TC1", "C09", "REDUCED"]
+}, {
+	"file_name": "R101_25.json",
+	"instance_name": "R101_25",
+	"tags": ["R101_25", "N25", "TR1", "C01", "NOTWS"]
+}, {
+	"file_name": "R102_25.json",
+	"instance_name": "R102_25",
+	"tags": ["R102_25", "N25", "TR1", "C02"]
+}, {
+	"file_name": "R103_25.json",
+	"instance_name": "R103_25",
+	"tags": ["R103_25", "N25", "TR1", "C03"]
+}, {
+	"file_name": "R104_25.json",
+	"instance_name": "R104_25",
+	"tags": ["R104_25", "N25", "TR1", "C04", "REDUCED"]
+}, {
+	"file_name": "R105_25.json",
+	"instance_name": "R105_25",
+	"tags": ["R105_25", "N25", "TR1", "C05"]
+}, {
+	"file_name": "R106_25.json",
+	"instance_name": "R106_25",
+	"tags": ["R106_25", "N25", "TR1", "C06"]
+}, {
+	"file_name": "R107_25.json",
+	"instance_name": "R107_25",
+	"tags": ["R107_25", "N25", "TR1", "C07"]
+}, {
+	"file_name": "R108_25.json",
+	"instance_name": "R108_25",
+	"tags": ["R108_25", "N25", "TR1", "C08"]
+}, {
+	"file_name": "R109_25.json",
+	"instance_name": "R109_25",
+	"tags": ["R109_25", "N25", "TR1", "C09"]
+}, {
+	"file_name": "R110_25.json",
+	"instance_name": "R110_25",
+	"tags": ["R110_25", "N25", "TR1", "C10"]
+}, {
+	"file_name": "R111_25.json",
+	"instance_name": "R111_25",
+	"tags": ["R111_25", "N25", "TR1", "C11"]
+}, {
+	"file_name": "R112_25.json",
+	"instance_name": "R112_25",
+	"tags": ["R112_25", "N25", "TR1", "C12", "REDUCED"]
+}, {
+	"file_name": "RC101_25.json",
+	"instance_name": "RC101_25",
+	"tags": ["RC101_25", "N25", "TRC1", "C01", "REDUCED", "NOTWS"]
+}, {
+	"file_name": "RC102_25.json",
+	"instance_name": "RC102_25",
+	"tags": ["RC102_25", "N25", "TRC1", "C02"]
+}, {
+	"file_name": "RC103_25.json",
+	"instance_name": "RC103_25",
+	"tags": ["RC103_25", "N25", "TRC1", "C03"]
+}, {
+	"file_name": "RC104_25.json",
+	"instance_name": "RC104_25",
+	"tags": ["RC104_25", "N25", "TRC1", "C04"]
+}, {
+	"file_name": "RC105_25.json",
+	"instance_name": "RC105_25",
+	"tags": ["RC105_25", "N25", "TRC1", "C05"]
+}, {
+	"file_name": "RC106_25.json",
+	"instance_name": "RC106_25",
+	"tags": ["RC106_25", "N25", "TRC1", "C06"]
+}, {
+	"file_name": "RC107_25.json",
+	"instance_name": "RC107_25",
+	"tags": ["RC107_25", "N25", "TRC1", "C07"]
+}, {
+	"file_name": "RC108_25.json",
+	"instance_name": "RC108_25",
+	"tags": ["RC108_25", "N25", "TRC1", "C08", "REDUCED"]
+}, {
+	"file_name": "C201_25.json",
+	"instance_name": "C201_25",
+	"tags": ["C201_25", "N25", "TC2", "C01", "NOTWS"]
+}, {
+	"file_name": "C202_25.json",
+	"instance_name": "C202_25",
+	"tags": ["C202_25", "N25", "TC2", "C02"]
+}, {
+	"file_name": "C203_25.json",
+	"instance_name": "C203_25",
+	"tags": ["C203_25", "N25", "TC2", "C03"]
+}, {
+	"file_name": "C204_25.json",
+	"instance_name": "C204_25",
+	"tags": ["C204_25", "N25", "TC2", "C04", "REDUCED"]
+}, {
+	"file_name": "C205_25.json",
+	"instance_name": "C205_25",
+	"tags": ["C205_25", "N25", "TC2", "C05"]
+}, {
+	"file_name": "C206_25.json",
+	"instance_name": "C206_25",
+	"tags": ["C206_25", "N25", "TC2", "C06"]
+}, {
+	"file_name": "C207_25.json",
+	"instance_name": "C207_25",
+	"tags": ["C207_25", "N25", "TC2", "C07", "REDUCED"]
+}, {
+	"file_name": "C208_25.json",
+	"instance_name": "C208_25",
+	"tags": ["C208_25", "N25", "TC2", "C08"]
+}, {
+	"file_name": "R201_25.json",
+	"instance_name": "R201_25",
+	"tags": ["R201_25", "N25", "TR2", "C01", "NOTWS"]
+}, {
+	"file_name": "R202_25.json",
+	"instance_name": "R202_25",
+	"tags": ["R202_25", "N25", "TR2", "C02"]
+}, {
+	"file_name": "R203_25.json",
+	"instance_name": "R203_25",
+	"tags": ["R203_25", "N25", "TR2", "C03"]
+}, {
+	"file_name": "R204_25.json",
+	"instance_name": "R204_25",
+	"tags": ["R204_25", "N25", "TR2", "C04", "REDUCED"]
+}, {
+	"file_name": "R205_25.json",
+	"instance_name": "R205_25",
+	"tags": ["R205_25", "N25", "TR2", "C05"]
+}, {
+	"file_name": "R206_25.json",
+	"instance_name": "R206_25",
+	"tags": ["R206_25", "N25", "TR2", "C06"]
+}, {
+	"file_name": "R207_25.json",
+	"instance_name": "R207_25",
+	"tags": ["R207_25", "N25", "TR2", "C07"]
+}, {
+	"file_name": "R208_25.json",
+	"instance_name": "R208_25",
+	"tags": ["R208_25", "N25", "TR2", "C08", "REDUCED"]
+}, {
+	"file_name": "R209_25.json",
+	"instance_name": "R209_25",
+	"tags": ["R209_25", "N25", "TR2", "C09"]
+}, {
+	"file_name": "R210_25.json",
+	"instance_name": "R210_25",
+	"tags": ["R210_25", "N25", "TR2", "C10"]
+}, {
+	"file_name": "R211_25.json",
+	"instance_name": "R211_25",
+	"tags": ["R211_25", "N25", "TR2", "C11"]
+}, {
+	"file_name": "RC201_25.json",
+	"instance_name": "RC201_25",
+	"tags": ["RC201_25", "N25", "TRC2", "C01", "NOTWS"]
+}, {
+	"file_name": "RC202_25.json",
+	"instance_name": "RC202_25",
+	"tags": ["RC202_25", "N25", "TRC2", "C02"]
+}, {
+	"file_name": "RC203_25.json",
+	"instance_name": "RC203_25",
+	"tags": ["RC203_25", "N25", "TRC2", "C03", "REDUCED"]
+}, {
+	"file_name": "RC204_25.json",
+	"instance_name": "RC204_25",
+	"tags": ["RC204_25", "N25", "TRC2", "C04", "REDUCED"]
+}, {
+	"file_name": "RC205_25.json",
+	"instance_name": "RC205_25",
+	"tags": ["RC205_25", "N25", "TRC2", "C05"]
+}, {
+	"file_name": "RC206_25.json",
+	"instance_name": "RC206_25",
+	"tags": ["RC206_25", "N25", "TRC2", "C06"]
+}, {
+	"file_name": "RC207_25.json",
+	"instance_name": "RC207_25",
+	"tags": ["RC207_25", "N25", "TRC2", "C07"]
+}, {
+	"file_name": "RC208_25.json",
+	"instance_name": "RC208_25",
+	"tags": ["RC208_25", "N25", "TRC2", "C08"]
+}, {
+	"file_name": "C101_50.json",
+	"instance_name": "C101_50",
+	"tags": ["C101_50", "N50", "TC1", "C01", "NOTWS"]
+}, {
+	"file_name": "C102_50.json",
+	"instance_name": "C102_50",
+	"tags": ["C102_50", "N50", "TC1", "C02"]
+}, {
+	"file_name": "C103_50.json",
+	"instance_name": "C103_50",
+	"tags": ["C103_50", "N50", "TC1", "C03", "REDUCED"]
+}, {
+	"file_name": "C104_50.json",
+	"instance_name": "C104_50",
+	"tags": ["C104_50", "N50", "TC1", "C04"]
+}, {
+	"file_name": "C105_50.json",
+	"instance_name": "C105_50",
+	"tags": ["C105_50", "N50", "TC1", "C05"]
+}, {
+	"file_name": "C106_50.json",
+	"instance_name": "C106_50",
+	"tags": ["C106_50", "N50", "TC1", "C06"]
+}, {
+	"file_name": "C107_50.json",
+	"instance_name": "C107_50",
+	"tags": ["C107_50", "N50", "TC1", "C07"]
+}, {
+	"file_name": "C108_50.json",
+	"instance_name": "C108_50",
+	"tags": ["C108_50", "N50", "TC1", "C08"]
+}, {
+	"file_name": "C109_50.json",
+	"instance_name": "C109_50",
+	"tags": ["C109_50", "N50", "TC1", "C09", "REDUCED"]
+}, {
+	"file_name": "R101_50.json",
+	"instance_name": "R101_50",
+	"tags": ["R101_50", "N50", "TR1", "C01", "NOTWS"]
+}, {
+	"file_name": "R102_50.json",
+	"instance_name": "R102_50",
+	"tags": ["R102_50", "N50", "TR1", "C02"]
+}, {
+	"file_name": "R103_50.json",
+	"instance_name": "R103_50",
+	"tags": ["R103_50", "N50", "TR1", "C03"]
+}, {
+	"file_name": "R104_50.json",
+	"instance_name": "R104_50",
+	"tags": ["R104_50", "N50", "TR1", "C04", "REDUCED"]
+}, {
+	"file_name": "R105_50.json",
+	"instance_name": "R105_50",
+	"tags": ["R105_50", "N50", "TR1", "C05"]
+}, {
+	"file_name": "R106_50.json",
+	"instance_name": "R106_50",
+	"tags": ["R106_50", "N50", "TR1", "C06"]
+}, {
+	"file_name": "R107_50.json",
+	"instance_name": "R107_50",
+	"tags": ["R107_50", "N50", "TR1", "C07", "REDUCED"]
+}, {
+	"file_name": "R108_50.json",
+	"instance_name": "R108_50",
+	"tags": ["R108_50", "N50", "TR1", "C08"]
+}, {
+	"file_name": "R109_50.json",
+	"instance_name": "R109_50",
+	"tags": ["R109_50", "N50", "TR1", "C09"]
+}, {
+	"file_name": "R110_50.json",
+	"instance_name": "R110_50",
+	"tags": ["R110_50", "N50", "TR1", "C10"]
+}, {
+	"file_name": "R111_50.json",
+	"instance_name": "R111_50",
+	"tags": ["R111_50", "N50", "TR1", "C11"]
+}, {
+	"file_name": "R112_50.json",
+	"instance_name": "R112_50",
+	"tags": ["R112_50", "N50", "TR1", "C12"]
+}, {
+	"file_name": "RC101_50.json",
+	"instance_name": "RC101_50",
+	"tags": ["RC101_50", "N50", "TRC1", "C01", "NOTWS"]
+}, {
+	"file_name": "RC102_50.json",
+	"instance_name": "RC102_50",
+	"tags": ["RC102_50", "N50", "TRC1", "C02", "REDUCED"]
+}, {
+	"file_name": "RC103_50.json",
+	"instance_name": "RC103_50",
+	"tags": ["RC103_50", "N50", "TRC1", "C03"]
+}, {
+	"file_name": "RC104_50.json",
+	"instance_name": "RC104_50",
+	"tags": ["RC104_50", "N50", "TRC1", "C04"]
+}, {
+	"file_name": "RC105_50.json",
+	"instance_name": "RC105_50",
+	"tags": ["RC105_50", "N50", "TRC1", "C05"]
+}, {
+	"file_name": "RC106_50.json",
+	"instance_name": "RC106_50",
+	"tags": ["RC106_50", "N50", "TRC1", "C06", "HARD"]
+}, {
+	"file_name": "RC107_50.json",
+	"instance_name": "RC107_50",
+	"tags": ["RC107_50", "N50", "TRC1", "C07"]
+}, {
+	"file_name": "RC108_50.json",
+	"instance_name": "RC108_50",
+	"tags": ["RC108_50", "N50", "TRC1", "C08", "REDUCED", "HARD"]
+}, {
+	"file_name": "C201_50.json",
+	"instance_name": "C201_50",
+	"tags": ["C201_50", "N50", "TC2", "C01", "NOTWS"]
+}, {
+	"file_name": "C202_50.json",
+	"instance_name": "C202_50",
+	"tags": ["C202_50", "N50", "TC2", "C02"]
+}, {
+	"file_name": "C203_50.json",
+	"instance_name": "C203_50",
+	"tags": ["C203_50", "N50", "TC2", "C03", "REDUCED"]
+}, {
+	"file_name": "C204_50.json",
+	"instance_name": "C204_50",
+	"tags": ["C204_50", "N50", "TC2", "C04", "HARD"]
+}, {
+	"file_name": "C205_50.json",
+	"instance_name": "C205_50",
+	"tags": ["C205_50", "N50", "TC2", "C05"]
+}, {
+	"file_name": "C206_50.json",
+	"instance_name": "C206_50",
+	"tags": ["C206_50", "N50", "TC2", "C06"]
+}, {
+	"file_name": "C207_50.json",
+	"instance_name": "C207_50",
+	"tags": ["C207_50", "N50", "TC2", "C07"]
+}, {
+	"file_name": "C208_50.json",
+	"instance_name": "C208_50",
+	"tags": ["C208_50", "N50", "TC2", "C08", "REDUCED"]
+}, {
+	"file_name": "R201_50.json",
+	"instance_name": "R201_50",
+	"tags": ["R201_50", "N50", "TR2", "C01", "NOTWS"]
+}, {
+	"file_name": "R202_50.json",
+	"instance_name": "R202_50",
+	"tags": ["R202_50", "N50", "TR2", "C02"]
+}, {
+	"file_name": "R203_50.json",
+	"instance_name": "R203_50",
+	"tags": ["R203_50", "N50", "TR2", "C03", "REDUCED"]
+}, {
+	"file_name": "R204_50.json",
+	"instance_name": "R204_50",
+	"tags": ["R204_50", "N50", "TR2", "C04", "HARD"]
+}, {
+	"file_name": "R205_50.json",
+	"instance_name": "R205_50",
+	"tags": ["R205_50", "N50", "TR2", "C05"]
+}, {
+	"file_name": "R206_50.json",
+	"instance_name": "R206_50",
+	"tags": ["R206_50", "N50", "TR2", "C06"]
+}, {
+	"file_name": "R207_50.json",
+	"instance_name": "R207_50",
+	"tags": ["R207_50", "N50", "TR2", "C07", "HARD"]
+}, {
+	"file_name": "R208_50.json",
+	"instance_name": "R208_50",
+	"tags": ["R208_50", "N50", "TR2", "C08", "HARD"]
+}, {
+	"file_name": "R209_50.json",
+	"instance_name": "R209_50",
+	"tags": ["R209_50", "N50", "TR2", "C09", "REDUCED"]
+}, {
+	"file_name": "R210_50.json",
+	"instance_name": "R210_50",
+	"tags": ["R210_50", "N50", "TR2", "C10"]
+}, {
+	"file_name": "R211_50.json",
+	"instance_name": "R211_50",
+	"tags": ["R211_50", "N50", "TR2", "C11"]
+}, {
+	"file_name": "RC201_50.json",
+	"instance_name": "RC201_50",
+	"tags": ["RC201_50", "N50", "TRC2", "C01", "NOTWS"]
+}, {
+	"file_name": "RC202_50.json",
+	"instance_name": "RC202_50",
+	"tags": ["RC202_50", "N50", "TRC2", "C02", "REDUCED"]
+}, {
+	"file_name": "RC203_50.json",
+	"instance_name": "RC203_50",
+	"tags": ["RC203_50", "N50", "TRC2", "C03", "HARD"]
+}, {
+	"file_name": "RC204_50.json",
+	"instance_name": "RC204_50",
+	"tags": ["RC204_50", "N50", "TRC2", "C04", "HARD"]
+}, {
+	"file_name": "RC205_50.json",
+	"instance_name": "RC205_50",
+	"tags": ["RC205_50", "N50", "TRC2", "C05"]
+}, {
+	"file_name": "RC206_50.json",
+	"instance_name": "RC206_50",
+	"tags": ["RC206_50", "N50", "TRC2", "C06", "REDUCED"]
+}, {
+	"file_name": "RC207_50.json",
+	"instance_name": "RC207_50",
+	"tags": ["RC207_50", "N50", "TRC2", "C07"]
+}, {
+	"file_name": "RC208_50.json",
+	"instance_name": "RC208_50",
+	"tags": ["RC208_50", "N50", "TRC2", "C08"]
+}, {
+	"file_name": "C101_100.json",
+	"instance_name": "C101_100",
+	"tags": ["C101_100", "N100", "TC1", "C01", "NOTWS"]
+}, {
+	"file_name": "C102_100.json",
+	"instance_name": "C102_100",
+	"tags": ["C102_100", "N100", "TC1", "C02"]
+}, {
+	"file_name": "C103_100.json",
+	"instance_name": "C103_100",
+	"tags": ["C103_100", "N100", "TC1", "C03"]
+}, {
+	"file_name": "C104_100.json",
+	"instance_name": "C104_100",
+	"tags": ["C104_100", "N100", "TC1", "C04", "HARD"]
+}, {
+	"file_name": "C105_100.json",
+	"instance_name": "C105_100",
+	"tags": ["C105_100", "N100", "TC1", "C05"]
+}, {
+	"file_name": "C106_100.json",
+	"instance_name": "C106_100",
+	"tags": ["C106_100", "N100", "TC1", "C06"]
+}, {
+	"file_name": "C107_100.json",
+	"instance_name": "C107_100",
+	"tags": ["C107_100", "N100", "TC1", "C07"]
+}, {
+	"file_name": "C108_100.json",
+	"instance_name": "C108_100",
+	"tags": ["C108_100", "N100", "TC1", "C08"]
+}, {
+	"file_name": "C109_100.json",
+	"instance_name": "C109_100",
+	"tags": ["C109_100", "N100", "TC1", "C09"]
+}, {
+	"file_name": "R101_100.json",
+	"instance_name": "R101_100",
+	"tags": ["R101_100", "N100", "TR1", "C01", "NOTWS"]
+}, {
+	"file_name": "R102_100.json",
+	"instance_name": "R102_100",
+	"tags": ["R102_100", "N100", "TR1", "C02"]
+}, {
+	"file_name": "R103_100.json",
+	"instance_name": "R103_100",
+	"tags": ["R103_100", "N100", "TR1", "C03"]
+}, {
+	"file_name": "R104_100.json",
+	"instance_name": "R104_100",
+	"tags": ["R104_100", "N100", "TR1", "C04", "HARD"]
+}, {
+	"file_name": "R105_100.json",
+	"instance_name": "R105_100",
+	"tags": ["R105_100", "N100", "TR1", "C05"]
+}, {
+	"file_name": "R106_100.json",
+	"instance_name": "R106_100",
+	"tags": ["R106_100", "N100", "TR1", "C06"]
+}, {
+	"file_name": "R107_100.json",
+	"instance_name": "R107_100",
+	"tags": ["R107_100", "N100", "TR1", "C07", "HARD"]
+}, {
+	"file_name": "R108_100.json",
+	"instance_name": "R108_100",
+	"tags": ["R108_100", "N100", "TR1", "C08", "HARD"]
+}, {
+	"file_name": "R109_100.json",
+	"instance_name": "R109_100",
+	"tags": ["R109_100", "N100", "TR1", "C09"]
+}, {
+	"file_name": "R110_100.json",
+	"instance_name": "R110_100",
+	"tags": ["R110_100", "N100", "TR1", "C10", "HARD"]
+}, {
+	"file_name": "R111_100.json",
+	"instance_name": "R111_100",
+	"tags": ["R111_100", "N100", "TR1", "C11"]
+}, {
+	"file_name": "R112_100.json",
+	"instance_name": "R112_100",
+	"tags": ["R112_100", "N100", "TR1", "C12", "HARD"]
+}, {
+	"file_name": "RC101_100.json",
+	"instance_name": "RC101_100",
+	"tags": ["RC101_100", "N100", "TRC1", "C01", "NOTWS", "HARD"]
+}, {
+	"file_name": "RC102_100.json",
+	"instance_name": "RC102_100",
+	"tags": ["RC102_100", "N100", "TRC1", "C02", "HARD"]
+}, {
+	"file_name": "RC103_100.json",
+	"instance_name": "RC103_100",
+	"tags": ["RC103_100", "N100", "TRC1", "C03", "HARD"]
+}, {
+	"file_name": "RC104_100.json",
+	"instance_name": "RC104_100",
+	"tags": ["RC104_100", "N100", "TRC1", "C04", "HARD"]
+}, {
+	"file_name": "RC105_100.json",
+	"instance_name": "RC105_100",
+	"tags": ["RC105_100", "N100", "TRC1", "C05", "HARD"]
+}, {
+	"file_name": "RC106_100.json",
+	"instance_name": "RC106_100",
+	"tags": ["RC106_100", "N100", "TRC1", "C06", "HARD"]
+}, {
+	"file_name": "RC107_100.json",
+	"instance_name": "RC107_100",
+	"tags": ["RC107_100", "N100", "TRC1", "C07", "HARD"]
+}, {
+	"file_name": "RC108_100.json",
+	"instance_name": "RC108_100",
+	"tags": ["RC108_100", "N100", "TRC1", "C08", "HARD"]
+}, {
+	"file_name": "C201_100.json",
+	"instance_name": "C201_100",
+	"tags": ["C201_100", "N100", "TC2", "C01", "NOTWS"]
+}, {
+	"file_name": "C202_100.json",
+	"instance_name": "C202_100",
+	"tags": ["C202_100", "N100", "TC2", "C02", "HARD"]
+}, {
+	"file_name": "C203_100.json",
+	"instance_name": "C203_100",
+	"tags": ["C203_100", "N100", "TC2", "C03", "HARD"]
+}, {
+	"file_name": "C204_100.json",
+	"instance_name": "C204_100",
+	"tags": ["C204_100", "N100", "TC2", "C04", "HARD"]
+}, {
+	"file_name": "C205_100.json",
+	"instance_name": "C205_100",
+	"tags": ["C205_100", "N100", "TC2", "C05"]
+}, {
+	"file_name": "C206_100.json",
+	"instance_name": "C206_100",
+	"tags": ["C206_100", "N100", "TC2", "C06"]
+}, {
+	"file_name": "C207_100.json",
+	"instance_name": "C207_100",
+	"tags": ["C207_100", "N100", "TC2", "C07"]
+}, {
+	"file_name": "C208_100.json",
+	"instance_name": "C208_100",
+	"tags": ["C208_100", "N100", "TC2", "C08"]
+}, {
+	"file_name": "R201_100.json",
+	"instance_name": "R201_100",
+	"tags": ["R201_100", "N100", "TR2", "C01", "NOTWS"]
+}, {
+	"file_name": "R202_100.json",
+	"instance_name": "R202_100",
+	"tags": ["R202_100", "N100", "TR2", "C02", "HARD"]
+}, {
+	"file_name": "R203_100.json",
+	"instance_name": "R203_100",
+	"tags": ["R203_100", "N100", "TR2", "C03", "HARD"]
+}, {
+	"file_name": "R204_100.json",
+	"instance_name": "R204_100",
+	"tags": ["R204_100", "N100", "TR2", "C04", "HARD"]
+}, {
+	"file_name": "R205_100.json",
+	"instance_name": "R205_100",
+	"tags": ["R205_100", "N100", "TR2", "C05", "HARD"]
+}, {
+	"file_name": "R206_100.json",
+	"instance_name": "R206_100",
+	"tags": ["R206_100", "N100", "TR2", "C06", "HARD"]
+}, {
+	"file_name": "R207_100.json",
+	"instance_name": "R207_100",
+	"tags": ["R207_100", "N100", "TR2", "C07", "HARD"]
+}, {
+	"file_name": "R208_100.json",
+	"instance_name": "R208_100",
+	"tags": ["R208_100", "N100", "TR2", "C08", "HARD"]
+}, {
+	"file_name": "R209_100.json",
+	"instance_name": "R209_100",
+	"tags": ["R209_100", "N100", "TR2", "C09", "HARD"]
+}, {
+	"file_name": "R210_100.json",
+	"instance_name": "R210_100",
+	"tags": ["R210_100", "N100", "TR2", "C10"]
+}, {
+	"file_name": "R211_100.json",
+	"instance_name": "R211_100",
+	"tags": ["R211_100", "N100", "TR2", "C11", "HARD"]
+}, {
+	"file_name": "RC201_100.json",
+	"instance_name": "RC201_100",
+	"tags": ["RC201_100", "N100", "TRC2", "C01", "NOTWS"]
+}, {
+	"file_name": "RC202_100.json",
+	"instance_name": "RC202_100",
+	"tags": ["RC202_100", "N100", "TRC2", "C02", "HARD"]
+}, {
+	"file_name": "RC203_100.json",
+	"instance_name": "RC203_100",
+	"tags": ["RC203_100", "N100", "TRC2", "C03", "HARD"]
+}, {
+	"file_name": "RC204_100.json",
+	"instance_name": "RC204_100",
+	"tags": ["RC204_100", "N100", "TRC2", "C04", "HARD"]
+}, {
+	"file_name": "RC205_100.json",
+	"instance_name": "RC205_100",
+	"tags": ["RC205_100", "N100", "TRC2", "C05", "HARD"]
+}, {
+	"file_name": "RC206_100.json",
+	"instance_name": "RC206_100",
+	"tags": ["RC206_100", "N100", "TRC2", "C06", "HARD"]
+}, {
+	"file_name": "RC207_100.json",
+	"instance_name": "RC207_100",
+	"tags": ["RC207_100", "N100", "TRC2", "C07", "HARD"]
+}, {
+	"file_name": "RC208_100.json",
+	"instance_name": "RC208_100",
+	"tags": ["RC208_100", "N100", "TRC2", "C08", "HARD"]
+}]
