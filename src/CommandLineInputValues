@@ -9,7 +9,4 @@ Options for filepath:
 
 Options for repairRegretType:
 
-"OptimalOptimal", "RandomOptimal", "EarlyOptimal", "RandomRandom"
-
--> Test de eerste drie opties op de RC instanties
-en de beste van deze drie (ik denk RandomOptimal) test je samen met RandomRandom op alle instanties
+"OptimalOptimal", "RandomOptimal", "EarlyOptimal", "RandomRandom", "EarlyEarly"
