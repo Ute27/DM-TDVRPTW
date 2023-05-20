@@ -1,0 +1,15 @@
+Options for filepath:
+
+"R101_25.json", "R101_50.json", "R101_100.json",
+            "R201_25.json", "R201_50.json", "R201_100.json",
+            "C101_25.json", "C101_50.json", "C101_100.json",
+            "C201_25.json", "C201_50.json", "C201_100.json",
+            "RC101_25.json", "RC101_50.json", "RC101_100.json",
+            "RC201_25.json", "RC201_50.json", "RC201_100.json"
+
+Options for repairRegretType:
+
+"OptimalOptimal", "RandomOptimal", "EarlyOptimal", "RandomRandom"
+
+-> Test de eerste drie opties op de RC instanties
+en de beste van deze drie (ik denk RandomOptimal) test je samen met RandomRandom op alle instanties
